@@ -1,0 +1,27 @@
+.imageProductos {
+    width: 50px;
+    height: 300px;
+  
+     }
+  .backk{
+      background-color: blue;
+  }
+  .backheader{
+      background-color: whitesmoke;
+  }
+  .logoTamaño{
+    width: 70px;
+    height: 70px;
+  }
+  .marginBody{
+    margin-top: 80px;
+    padding-top: 50px;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+.textCenter {
+        text-align: center; 
+        background-color: darkgoldenrod;
+        width: 100%;
+    }

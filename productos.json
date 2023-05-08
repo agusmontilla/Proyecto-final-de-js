@@ -1,0 +1,74 @@
+[{
+    "id": 1,
+    "nombre": "Fifa 23",
+    "imagen": "imagenes/fifa23.jpg",
+    "precio": 20000
+},
+{
+    "id": 2,
+    "nombre": "NBA 2k23",
+    "imagen": "imagenes/nba.jpg",
+    "precio": 19000
+},
+{
+    "id": 3,
+    "nombre": "God of war Ragnarok",
+    "imagen": "imagenes/godofwar.webp",
+    "precio": 23000
+},
+{
+    "id": 4,
+    "nombre": "The las of us II",
+    "imagen": "imagenes/thelastofus.webp",
+    "precio": 25000
+},
+{
+    "id": 5,
+    "nombre": "Resident Evil 4",
+    "imagen": "imagenes/residentevil.webp",
+    "precio": 24000
+},
+{
+    "id": 6,
+    "nombre": "Until Dawn",
+    "imagen": "imagenes/untildawn.jpg",
+    "precio": 14000
+},
+{
+    "id": 7,
+    "nombre": "Dirt 4",
+    "imagen": "imagenes/dirt4.jpg",
+    "precio": 15000
+},
+{
+    "id": 8,
+    "nombre": "Gran turismo 7",
+    "imagen": "imagenes/granturismo.jpg",
+    "precio": 17000
+},
+{
+    "id": 9,
+    "nombre": "Hogwarts Legacy",
+    "imagen": "imagenes/hogwarts.jpg",
+    "precio": 27000
+},
+{
+    "id": 10,
+    "nombre": "Star Wars Jedi",
+    "imagen": "imagenes/starwars.jpg",
+    "precio": 19000
+},
+{
+    "id": 11,
+    "nombre": "Final Fantasy XVI",
+    "imagen": "imagenes/finalfantasy.jpg",
+    "precio": 18000
+},
+{
+    "id": 12,
+    "nombre": "Death Stranding",
+    "imagen": "imagenes/death.jpg",
+    "precio": 19000
+}
+
+]
